@@ -19,7 +19,7 @@ Do projektu należy dodać dwa pliki:
 
 
 Do zrobienia:
-- plik main.js powinien mieć zdefiniowany w zmiennej znacznik html - `<img src="" alt=""/>`
+- plik logo.js powinien mieć zdefiniowany w zmiennej znacznik html - `<img src="" alt=""/>`
 - src powinno wskazywać na dolną grafikę wcześniej pobraną i umieszczoną w katalogu projektu,
 - plik `index.html` powinny mieć tuż po otwarciu znacznika body umieszczony znacznik `<div class="main"></div>`. 
 Ten pusty znacznik będzie odpowiedzialny za wyświetlenie grafiki z pliku main.js.
