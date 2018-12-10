@@ -16,6 +16,7 @@ Następnie za pomocą języka Javascript należy pobrać potrzebne elementy ze s
 
 Do projektu należy dodać dwa pliki:
 - logo.js
+- plik ze zdjęciem
 
 
 Do zrobienia:
