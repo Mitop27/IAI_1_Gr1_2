@@ -10,7 +10,7 @@ W projekcie znajduje się 3 pliki:
 Zadanie polega na dołączeniu pliku JavaScript w odpowiednim miejscu w pliku index.html.
 Następnie za pomocą języka Javascript należy pobrać potrzebne elementy ze strony i wykonać odpowiednie akcję:
 (cały kod Javascript ma być zawarty w pliku script.js):
-- po kliknięciu w przycisk "Pokaż element", nad przyciskiem powinien pojawić napis (element header w pliku index.html).
+- po kliknięciu w przycisk "Ukryj element", nad przyciskiem napis powinien zniknąć (element header w pliku index.html).
 
 ## Zadanie 2
 
